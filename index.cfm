@@ -17,7 +17,7 @@
                 <cfoutput>
                     <div id="adminnav" style="float:none; clear:both; height:50px; ">
                         <ul class="nav nav-pills" style="margin-left:auto; display:block; ">
-                            <li style="float:right"><a>Welcome #welcomeName# </a></li>
+                            <li style="float:right"><a>Welcome To My Exercises #welcomeName# </a></li>
                             <li style="float:right"><a href="https://uml.umassonline.net/" target="_blank">Class Blackboard Site</a> </li>
                         </ul>
                     </div>
